@@ -31,7 +31,7 @@ main:after{   /* Deixar a tela escura ao redor*/
 
 .informacoes .descricao{
     width: 49%;
-    font-size: 24px;
+    font-size: 17px;
     color: white;
     line-height: 30px;
 }
